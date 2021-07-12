@@ -1,11 +1,11 @@
 {
   "name": "loopback-connector-nedb",
-  "version": "6.0.1",
+  "version": "0.0.1",
   "description": "The unofficial NeDB connector for the LoopBack framework.",
   "engines": {
     "node": ">=10"
   },
-  "author": "IBM Corp.",
+  "author": "baptiste.bellot",
   "main": "index.js",
   "scripts": {
     "coverage": "nyc report --reporter=text-lcov | coveralls",
