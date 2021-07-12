@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-nedb",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The unofficial NeDB connector for the LoopBack framework.",
   "engines": {
     "node": ">=10"
@@ -31,7 +31,7 @@
     "datasource",
     "loopback",
     "strongloop",
-    "mongodb"
+    "nedb"
   ],
   "license": "MIT",
   "dependencies": {
@@ -39,7 +39,7 @@
     "bson": "^1.0.6",
     "debug": "^4.1.0",
     "loopback-connector": "^5.0.0",
-    "mongodb": "^3.2.4",
+    "nedb": "^1.8.0",
     "strong-globalize": "^6.0.0"
   },
   "devDependencies": {
