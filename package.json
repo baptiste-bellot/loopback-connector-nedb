@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-nedb",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "The unofficial NeDB connector for the LoopBack framework.",
   "engines": {
     "node": ">=10"
